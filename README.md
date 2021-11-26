@@ -9,6 +9,6 @@ Após a limpeza do texto, podemos inicia nossas análises.
 
 # Nuvem de palavras
 
-Uma das técnicas mais comuns em mineração de texto é a nuvem de palavras. Se trata da representação de palavras de acordo com sua frequência no texto. O tamanho das palavras na nuvem varia de acordo com seu tamanho, o que possibilita uma visualização geral sobre os termos tratados no texto. Observe o exemplo abaixo, uma nuvem de palavras de todos os artigos publicados na última edição da revista Estudos em Avaliação Educacional, caso apresentado no script "tm-reveae".
+Uma das técnicas mais comuns em mineração de texto é a nuvem de palavras. Se trata da representação de palavras de acordo com sua frequência no texto. O tamanho das palavras na nuvem varia de acordo com sua frequência, o que possibilita uma visualização geral sobre os termos tratados no texto. Observe o exemplo abaixo, uma nuvem de palavras de todos os artigos publicados na última edição da revista Estudos em Avaliação Educacional, caso apresentado no script "tm-reveae".
 
 <img src="https://github.com/victorgalcantara/TextMining/blob/main/assets/wordcloud-top100w.png"/>
