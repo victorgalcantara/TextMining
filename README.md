@@ -1,5 +1,5 @@
 # TextMining
-Text mining with packages "tm", "stringr" and "wordcloud" in R.
+Text mining with packages "tidytext", "quanteda", "tm", "stringr" and "wordcloud" in R.
 
 <a href="https://github.com/juliasilge/tidytext"><img src="https://github.com/victorgalcantara/TextMining/blob/main/assets/logo-tidytext.png?raw=true"/></a>
 
@@ -11,11 +11,21 @@ O segundo passo é limpar o texto dos caracteres que não nos interessam, como a
 
 Após a limpeza do texto, podemos iniciar nossas análises.
 
-# Nuvem de palavras
+# Nuvem de palavras - _Wordcloud_
 
 Uma das técnicas mais comuns em mineração de texto é a nuvem de palavras. Se trata da representação de palavras de acordo com sua frequência no texto. O tamanho das palavras na nuvem varia de acordo com sua frequência, o que possibilita uma visualização geral sobre os termos tratados no texto. Observe o exemplo abaixo, uma nuvem de palavras de todos os artigos publicados na última edição da revista Estudos em Avaliação Educacional, caso apresentado no script "tm-rev-eae".
 
 <a href="https://github.com/victorgalcantara/TextMining/blob/main/assets/wordcloud-top100w.html"><img src="https://github.com/victorgalcantara/TextMining/blob/main/assets/wordcloud-top100w.png"/></a>
+
+# Rede de relações - _Network_
+
+Uma rede pode ser estruturada por três informações principais:
+
+-from: o nó de onde parte a relação
+-to: o nó para onde vai a relação
+-weight: o peso da associação
+
+<img src="https://github.com/victorgalcantara/TextMining/blob/main/assets/network.png"/>
 
 # Referências
 
