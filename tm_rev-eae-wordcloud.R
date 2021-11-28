@@ -43,11 +43,11 @@ data <- tm_map(data, removeWords, stopwords("portuguese"))
 
 # Remove your own stop word
 # specify your stopwords as a character vector
-prep <- c("a","ante","até","após","com","contra","de",
+prep <- c("a","ante","atÃ©","apÃ³s","com","contra","de",
          "desde","em","entre","para","per","perante",
-         "por","sem","sob","sobre","trás")
+         "por","sem","sob","sobre","trÃ¡s")
 
-conj <- c("além","portanto")
+conj <- c("alÃ©m","portanto")
 
 art <- c("neste","deste")
 
