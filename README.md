@@ -1,7 +1,8 @@
 # TextMining
 Text mining with packages "tidytext", "quanteda", "tm", "stringr" and "wordcloud" in R.
 
-<a href="https://github.com/juliasilge/tidytext"><img src="https://github.com/victorgalcantara/TextMining/blob/main/assets/logo-tidytext.png?raw=true"/></a>
+<a href="https://www.tidytextmining.com/index.html"><img src="https://github.com/victorgalcantara/TextMining/blob/main/assets/logo-tidytext.png?raw=true"/></a>
+<a href="https://quanteda.io/"><img src="https://github.com/victorgalcantara/TextMining/blob/main/assets/logo-quanteda.svg"/></a>
 
 Este repositório guarda materiais de estudo sobre mineração e análise de textos com R. Os livros utilizados encontram-se nas referências ao final deste documento.
 
